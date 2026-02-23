@@ -2,25 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Welcome on Jason Kissel | Data Analytics</title>
-    <link>http://localhost:1313/</link>
+    <link>https://yourusername.github.io/</link>
     <description>Recent content in Welcome on Jason Kissel | Data Analytics</description>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yourusername.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NFL_historic_odds</title>
-      <link>http://localhost:1313/posts/nfl_historic_odds/</link>
+      <link>https://yourusername.github.io/posts/nfl_historic_odds/</link>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nfl_historic_odds/</guid>
+      <guid>https://yourusername.github.io/posts/nfl_historic_odds/</guid>
       <description>&lt;p&gt;This project explores historic NFL odds and outcomes.&lt;/p&gt;
 &lt;p&gt;I used a combination of web scraping, data cleaning, and analysis to identify trends and patterns across seasons.&lt;/p&gt;
 &lt;p&gt;The goal is to document the full process from data acquisition to visualization, highlighting the decision-making at each step.&lt;/p&gt;
 &lt;p&gt;Future additions will include interactive Tableau dashboards and visualizations to illustrate key findings.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Chart of historic odds&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/3lander.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Chart of historic odds&#34; loading=&#34;lazy&#34; src=&#34;https://yourusername.github.io/images/3lander.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;tableau-dashboard-example&#34;&gt;Tableau Dashboard Example&lt;/h2&gt;
 
 &lt;div class=&#39;tableauPlaceholder&#39; id=&#39;viz1771870847196&#39; style=&#39;position: relative&#39;&gt;&lt;noscript&gt;&lt;a href=&#39;#&#39;&gt;&lt;img alt=&#39; &#39; src=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Ag&amp;#47;AgendaMedellnODS&amp;#47;Portada&amp;#47;1_rss.png&#39; style=&#39;border: none&#39; /&gt;&lt;/a&gt;&lt;/noscript&gt;&lt;object class=&#39;tableauViz&#39;  style=&#39;display:none;&#39;&gt;&lt;param name=&#39;host_url&#39; value=&#39;https%3A%2F%2Fpublic.tableau.com%2F&#39; /&gt; &lt;param name=&#39;embed_code_version&#39; value=&#39;3&#39; /&gt; &lt;param name=&#39;site_root&#39; value=&#39;&#39; /&gt;&lt;param name=&#39;name&#39; value=&#39;AgendaMedellnODS&amp;#47;Portada&#39; /&gt;&lt;param name=&#39;tabs&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;toolbar&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;static_image&#39; value=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Ag&amp;#47;AgendaMedellnODS&amp;#47;Portada&amp;#47;1.png&#39; /&gt; &lt;param name=&#39;animate_transition&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_static_image&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_spinner&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_overlay&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_count&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;language&#39; value=&#39;en-US&#39; /&gt;&lt;/object&gt;&lt;/div&gt;                &lt;script type=&#39;text/javascript&#39;&gt;                    var divElement = document.getElementById(&#39;viz1771870847196&#39;);                    var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0];                    vizElement.style.width=&#39;1300px&#39;;vizElement.style.height=&#39;850px&#39;;                    var scriptElement = document.createElement(&#39;script&#39;);                    scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;;                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                &lt;/script&gt;
+
+&lt;h2&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;looker-studio-example&#34;&gt;Looker Studio Example&lt;/h2&gt;
+&lt;h2&gt;&lt;/h2&gt;
+
+&lt;iframe width=&#34;1300px&#34; height=&#34;400&#34; src=&#34;https://lookerstudio.google.com/embed/reporting/6292eaeb-9869-46e9-bc6c-94cdb6359560/page/1M&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h2 id=&#34;code-example&#34;&gt;Code Example&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Placeholder for data cleaning&lt;/span&gt;
