@@ -1,0 +1,10 @@
+baseURL = "https://yourusername.github.io/"
+languageCode = "en-us"
+title = "Jason Kissel | Data Analytics"
+theme = "PaperMod"
+
+[params]
+  author = "Jason Kissel"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
